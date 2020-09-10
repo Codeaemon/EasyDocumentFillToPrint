@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.profileTable{
+  width: 100%;
+}
+.Sno{
+  width:5%;
+  padding:5px;
+}
+.head{
+  width:45%;
+  padding:5px;
+}
+.data{
+  padding:5px;
+}
